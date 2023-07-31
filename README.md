@@ -1,2 +1,4 @@
-运行hog
-```python3 hog_gui.py```
+运行hog:
+
+```python3 hog_gui.py
+```
